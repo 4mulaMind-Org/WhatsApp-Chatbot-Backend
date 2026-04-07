@@ -1,6 +1,0 @@
-com/chatbot/api/WhatsAppMessage.class
-com/chatbot/api/MessageLogger.class
-com/chatbot/api/ChatbotResponse.class
-com/chatbot/api/WebhookController.class
-com/chatbot/api/BotService.class
-com/chatbot/api/ChatbotApplication.class
